@@ -1,0 +1,4306 @@
+[
+{
+"id": 1,
+"countryName": "afghanistan",
+"capitalName": "kabul",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "AFN",
+"currencyName": "Afghan Afghani"
+}
+],
+"languages": [
+{
+"languageCode": "tuk",
+"languageName": "turkmen"
+},
+{
+"languageCode": "prs",
+"languageName": "dari"
+},
+{
+"languageCode": "pus",
+"languageName": "pashto"
+}
+],
+"independent": true
+},
+{
+"id": 2,
+"countryName": "angola",
+"capitalName": "luanda",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "AOA",
+"currencyName": "Angolan Kwanza"
+}
+],
+"languages": [
+{
+"languageCode": "por",
+"languageName": "portuguese"
+}
+],
+"independent": true
+},
+{
+"id": 3,
+"countryName": "albania",
+"capitalName": "tirana",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "ALL",
+"currencyName": "Albanian Lek"
+}
+],
+"languages": [
+{
+"languageCode": "sqi",
+"languageName": "albanian"
+}
+],
+"independent": true
+},
+{
+"id": 4,
+"countryName": "andorra",
+"capitalName": "andorra la vella",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "cat",
+"languageName": "catalan"
+}
+],
+"independent": true
+},
+{
+"id": 5,
+"countryName": "united arab emirates",
+"capitalName": "abu dhabi",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "AED",
+"currencyName": "United Arab Emirates Dirham"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 6,
+"countryName": "argentina",
+"capitalName": "buenos aires",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "ARS",
+"currencyName": "Argentine Peso"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+},
+{
+"languageCode": "grn",
+"languageName": "guaraní"
+}
+],
+"independent": true
+},
+{
+"id": 7,
+"countryName": "armenia",
+"capitalName": "yerevan",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "AMD",
+"currencyName": "Armenian Dram"
+}
+],
+"languages": [
+{
+"languageCode": "hye",
+"languageName": "armenian"
+}
+],
+"independent": true
+},
+{
+"id": 8,
+"countryName": "antigua and barbuda",
+"capitalName": "saint john's",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "XCD",
+"currencyName": "East Caribbean Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 9,
+"countryName": "australia",
+"capitalName": "canberra",
+"continent": "OCEANIA",
+"currencies": [
+{
+"id": "AUD",
+"currencyName": "Australian Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 10,
+"countryName": "austria",
+"capitalName": "vienna",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "bar",
+"languageName": "austro-bavarian german"
+}
+],
+"independent": true
+},
+{
+"id": 11,
+"countryName": "azerbaijan",
+"capitalName": "baku",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "AZN",
+"currencyName": "Azerbaijani Manat"
+}
+],
+"languages": [
+{
+"languageCode": "rus",
+"languageName": "russian"
+},
+{
+"languageCode": "aze",
+"languageName": "azerbaijani"
+}
+],
+"independent": true
+},
+{
+"id": 12,
+"countryName": "burundi",
+"capitalName": "gitega",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "BIF",
+"currencyName": "Burundian Franc"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+},
+{
+"languageCode": "run",
+"languageName": "kirundi"
+}
+],
+"independent": true
+},
+{
+"id": 13,
+"countryName": "belgium",
+"capitalName": "brussels",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+},
+{
+"languageCode": "nld",
+"languageName": "dutch"
+},
+{
+"languageCode": "deu",
+"languageName": "german"
+}
+],
+"independent": true
+},
+{
+"id": 14,
+"countryName": "benin",
+"capitalName": "porto-novo",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "XOF",
+"currencyName": "West African CFA Franc"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 15,
+"countryName": "burkina faso",
+"capitalName": "ouagadougou",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "XOF",
+"currencyName": "West African CFA Franc"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 16,
+"countryName": "bangladesh",
+"capitalName": "dhaka",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "BDT",
+"currencyName": "Bangladeshi Taka"
+}
+],
+"languages": [
+{
+"languageCode": "ben",
+"languageName": "bengali"
+}
+],
+"independent": true
+},
+{
+"id": 17,
+"countryName": "bulgaria",
+"capitalName": "sofia",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "BGN",
+"currencyName": "Bulgarian Lev"
+}
+],
+"languages": [
+{
+"languageCode": "bul",
+"languageName": "bulgarian"
+}
+],
+"independent": true
+},
+{
+"id": 18,
+"countryName": "bahrain",
+"capitalName": "manama",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "BHD",
+"currencyName": "Bahraini Dinar"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 19,
+"countryName": "bahamas",
+"capitalName": "nassau",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "BSD",
+"currencyName": "Bahamian Dollar"
+},
+{
+"id": "USD",
+"currencyName": "US Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 20,
+"countryName": "bosnia and herzegovina",
+"capitalName": "sarajevo",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "BAM",
+"currencyName": "Bosnia-Herzegovina Convertible Mark"
+}
+],
+"languages": [
+{
+"languageCode": "bos",
+"languageName": "bosnian"
+},
+{
+"languageCode": "srp",
+"languageName": "serbian"
+},
+{
+"languageCode": "hrv",
+"languageName": "croatian"
+}
+],
+"independent": true
+},
+{
+"id": 21,
+"countryName": "belarus",
+"capitalName": "minsk",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "BYN",
+"currencyName": "Belarusian Ruble"
+}
+],
+"languages": [
+{
+"languageCode": "rus",
+"languageName": "russian"
+},
+{
+"languageCode": "bel",
+"languageName": "belarusian"
+}
+],
+"independent": true
+},
+{
+"id": 22,
+"countryName": "belize",
+"capitalName": "belmopan",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "BZD",
+"currencyName": "Belize Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "spa",
+"languageName": "spanish"
+},
+{
+"languageCode": "bjz",
+"languageName": "belizean creole"
+}
+],
+"independent": true
+},
+{
+"id": 23,
+"countryName": "bolivia",
+"capitalName": "sucre",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "BOB",
+"currencyName": "Bolivian Boliviano"
+}
+],
+"languages": [
+{
+"languageCode": "aym",
+"languageName": "aymara"
+},
+{
+"languageCode": "spa",
+"languageName": "spanish"
+},
+{
+"languageCode": "grn",
+"languageName": "guaraní"
+},
+{
+"languageCode": "que",
+"languageName": "quechua"
+}
+],
+"independent": true
+},
+{
+"id": 24,
+"countryName": "brazil",
+"capitalName": "brasília",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "BRL",
+"currencyName": "Brazilian Real"
+}
+],
+"languages": [
+{
+"languageCode": "por",
+"languageName": "portuguese"
+}
+],
+"independent": true
+},
+{
+"id": 25,
+"countryName": "barbados",
+"capitalName": "bridgetown",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "BBD",
+"currencyName": "Barbadian Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 26,
+"countryName": "brunei",
+"capitalName": "bandar seri begawan",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "SGD",
+"currencyName": "Singapore Dollar"
+},
+{
+"id": "BND",
+"currencyName": "Brunei Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "msa",
+"languageName": "malay"
+}
+],
+"independent": true
+},
+{
+"id": 27,
+"countryName": "bhutan",
+"capitalName": "thimphu",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "BTN",
+"currencyName": "Bhutanese Ngultrum"
+},
+{
+"id": "INR",
+"currencyName": "Indian Rupee"
+}
+],
+"languages": [
+{
+"languageCode": "dzo",
+"languageName": "dzongkha"
+}
+],
+"independent": true
+},
+{
+"id": 28,
+"countryName": "botswana",
+"capitalName": "gaborone",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "BWP",
+"currencyName": "Botswanan Pula"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "tsn",
+"languageName": "tswana"
+}
+],
+"independent": true
+},
+{
+"id": 29,
+"countryName": "central african republic",
+"capitalName": "bangui",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "XAF",
+"currencyName": "Central African CFA Franc"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+},
+{
+"languageCode": "sag",
+"languageName": "sango"
+}
+],
+"independent": true
+},
+{
+"id": 30,
+"countryName": "canada",
+"capitalName": "ottawa",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "CAD",
+"currencyName": "Canadian Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 31,
+"countryName": "switzerland",
+"capitalName": "bern",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "CHF",
+"currencyName": "Swiss Franc"
+}
+],
+"languages": [
+{
+"languageCode": "ita",
+"languageName": "italian"
+},
+{
+"languageCode": "fra",
+"languageName": "french"
+},
+{
+"languageCode": "roh",
+"languageName": "romansh"
+},
+{
+"languageCode": "gsw",
+"languageName": "swiss german"
+}
+],
+"independent": true
+},
+{
+"id": 32,
+"countryName": "chile",
+"capitalName": "santiago",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "CLP",
+"currencyName": "Chilean Peso"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 33,
+"countryName": "china",
+"capitalName": "beijing",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "CNY",
+"currencyName": "Chinese Yuan"
+}
+],
+"languages": [
+{
+"languageCode": "zho",
+"languageName": "chinese"
+}
+],
+"independent": true
+},
+{
+"id": 34,
+"countryName": "ivory coast",
+"capitalName": "yamoussoukro",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "XOF",
+"currencyName": "West African CFA Franc"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 35,
+"countryName": "cameroon",
+"capitalName": "yaoundé",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "XAF",
+"currencyName": "Central African CFA Franc"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 36,
+"countryName": "dr congo",
+"capitalName": "kinshasa",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "CDF",
+"currencyName": "Congolese Franc"
+}
+],
+"languages": [
+{
+"languageCode": "lua",
+"languageName": "tshiluba"
+},
+{
+"languageCode": "kon",
+"languageName": "kikongo"
+},
+{
+"languageCode": "fra",
+"languageName": "french"
+},
+{
+"languageCode": "lin",
+"languageName": "lingala"
+},
+{
+"languageCode": "swa",
+"languageName": "swahili"
+}
+],
+"independent": true
+},
+{
+"id": 37,
+"countryName": "republic of the congo",
+"capitalName": "brazzaville",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "XAF",
+"currencyName": "Central African CFA Franc"
+}
+],
+"languages": [
+{
+"languageCode": "kon",
+"languageName": "kikongo"
+},
+{
+"languageCode": "fra",
+"languageName": "french"
+},
+{
+"languageCode": "lin",
+"languageName": "lingala"
+}
+],
+"independent": true
+},
+{
+"id": 38,
+"countryName": "colombia",
+"capitalName": "bogotá",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "COP",
+"currencyName": "Colombian Peso"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 39,
+"countryName": "comoros",
+"capitalName": "moroni",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "KMF",
+"currencyName": "Comorian Franc"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+},
+{
+"languageCode": "fra",
+"languageName": "french"
+},
+{
+"languageCode": "zdj",
+"languageName": "comorian"
+}
+],
+"independent": true
+},
+{
+"id": 40,
+"countryName": "cape verde",
+"capitalName": "praia",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "CVE",
+"currencyName": "Cape Verdean Escudo"
+}
+],
+"languages": [
+{
+"languageCode": "por",
+"languageName": "portuguese"
+}
+],
+"independent": true
+},
+{
+"id": 41,
+"countryName": "costa rica",
+"capitalName": "san josé",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "CRC",
+"currencyName": "Costa Rican Colón"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 42,
+"countryName": "cuba",
+"capitalName": "havana",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "CUC",
+"currencyName": "Cuban Convertible Peso"
+},
+{
+"id": "CUP",
+"currencyName": "Cuban Peso"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 43,
+"countryName": "cyprus",
+"capitalName": "nicosia",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "tur",
+"languageName": "turkish"
+},
+{
+"languageCode": "ell",
+"languageName": "greek"
+}
+],
+"independent": true
+},
+{
+"id": 44,
+"countryName": "czechia",
+"capitalName": "prague",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "CZK",
+"currencyName": "Czech Koruna"
+}
+],
+"languages": [
+{
+"languageCode": "ces",
+"languageName": "czech"
+},
+{
+"languageCode": "slk",
+"languageName": "slovak"
+}
+],
+"independent": true
+},
+{
+"id": 45,
+"countryName": "germany",
+"capitalName": "berlin",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "deu",
+"languageName": "german"
+}
+],
+"independent": true
+},
+{
+"id": 46,
+"countryName": "djibouti",
+"capitalName": "djibouti",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "DJF",
+"currencyName": "Djiboutian Franc"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+},
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 47,
+"countryName": "dominica",
+"capitalName": "roseau",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "XCD",
+"currencyName": "East Caribbean Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 48,
+"countryName": "denmark",
+"capitalName": "copenhagen",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "DKK",
+"currencyName": "Danish Krone"
+}
+],
+"languages": [
+{
+"languageCode": "dan",
+"languageName": "danish"
+}
+],
+"independent": true
+},
+{
+"id": 49,
+"countryName": "dominican republic",
+"capitalName": "santo domingo",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "DOP",
+"currencyName": "Dominican Peso"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 50,
+"countryName": "algeria",
+"capitalName": "algiers",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "DZD",
+"currencyName": "Algerian Dinar"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 51,
+"countryName": "ecuador",
+"capitalName": "quito",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "USD",
+"currencyName": "US Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 52,
+"countryName": "egypt",
+"capitalName": "cairo",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "EGP",
+"currencyName": "Egyptian Pound"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 53,
+"countryName": "eritrea",
+"capitalName": "asmara",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "ERN",
+"currencyName": "Eritrean Nakfa"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "ara",
+"languageName": "arabic"
+},
+{
+"languageCode": "tir",
+"languageName": "tigrinya"
+}
+],
+"independent": true
+},
+{
+"id": 54,
+"countryName": "spain",
+"capitalName": "madrid",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 55,
+"countryName": "estonia",
+"capitalName": "tallinn",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "est",
+"languageName": "estonian"
+}
+],
+"independent": true
+},
+{
+"id": 56,
+"countryName": "ethiopia",
+"capitalName": "addis ababa",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "ETB",
+"currencyName": "Ethiopian Birr"
+}
+],
+"languages": [
+{
+"languageCode": "amh",
+"languageName": "amharic"
+}
+],
+"independent": true
+},
+{
+"id": 57,
+"countryName": "finland",
+"capitalName": "helsinki",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "fin",
+"languageName": "finnish"
+},
+{
+"languageCode": "swe",
+"languageName": "swedish"
+}
+],
+"independent": true
+},
+{
+"id": 58,
+"countryName": "fiji",
+"capitalName": "suva",
+"continent": "OCEANIA",
+"currencies": [
+{
+"id": "FJD",
+"currencyName": "Fijian Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "fij",
+"languageName": "fijian"
+},
+{
+"languageCode": "hif",
+"languageName": "fiji hindi"
+}
+],
+"independent": true
+},
+{
+"id": 59,
+"countryName": "france",
+"capitalName": "paris",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 60,
+"countryName": "micronesia",
+"capitalName": "palikir",
+"continent": "OCEANIA",
+"currencies": [],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 61,
+"countryName": "gabon",
+"capitalName": "libreville",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "XAF",
+"currencyName": "Central African CFA Franc"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 62,
+"countryName": "united kingdom",
+"capitalName": "london",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "GBP",
+"currencyName": "British Pound"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 63,
+"countryName": "georgia",
+"capitalName": "tbilisi",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "GEL",
+"currencyName": "Georgian Lari"
+}
+],
+"languages": [
+{
+"languageCode": "kat",
+"languageName": "georgian"
+}
+],
+"independent": true
+},
+{
+"id": 64,
+"countryName": "ghana",
+"capitalName": "accra",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "GHS",
+"currencyName": "Ghanaian Cedi"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 65,
+"countryName": "guinea",
+"capitalName": "conakry",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "GNF",
+"currencyName": "Guinean Franc"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 66,
+"countryName": "gambia",
+"capitalName": "banjul",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "GMD",
+"currencyName": "Gambian Dalasi"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 67,
+"countryName": "guinea-bissau",
+"capitalName": "bissau",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "XOF",
+"currencyName": "West African CFA Franc"
+}
+],
+"languages": [
+{
+"languageCode": "por",
+"languageName": "portuguese"
+},
+{
+"languageCode": "pov",
+"languageName": "upper guinea creole"
+}
+],
+"independent": true
+},
+{
+"id": 68,
+"countryName": "equatorial guinea",
+"capitalName": "malabo",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "XAF",
+"currencyName": "Central African CFA Franc"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+},
+{
+"languageCode": "spa",
+"languageName": "spanish"
+},
+{
+"languageCode": "por",
+"languageName": "portuguese"
+}
+],
+"independent": true
+},
+{
+"id": 69,
+"countryName": "greece",
+"capitalName": "athens",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "ell",
+"languageName": "greek"
+}
+],
+"independent": true
+},
+{
+"id": 70,
+"countryName": "grenada",
+"capitalName": "st. george's",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "XCD",
+"currencyName": "East Caribbean Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 71,
+"countryName": "guatemala",
+"capitalName": "guatemala city",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "GTQ",
+"currencyName": "Guatemalan Quetzal"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 72,
+"countryName": "guyana",
+"capitalName": "georgetown",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "GYD",
+"currencyName": "Guyanaese Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 73,
+"countryName": "honduras",
+"capitalName": "tegucigalpa",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "HNL",
+"currencyName": "Honduran Lempira"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 74,
+"countryName": "croatia",
+"capitalName": "zagreb",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "HRK",
+"currencyName": "Croatian Kuna"
+}
+],
+"languages": [
+{
+"languageCode": "hrv",
+"languageName": "croatian"
+}
+],
+"independent": true
+},
+{
+"id": 75,
+"countryName": "haiti",
+"capitalName": "port-au-prince",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "HTG",
+"currencyName": "Haitian Gourde"
+}
+],
+"languages": [
+{
+"languageCode": "hat",
+"languageName": "haitian creole"
+},
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 76,
+"countryName": "hungary",
+"capitalName": "budapest",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "HUF",
+"currencyName": "Hungarian Forint"
+}
+],
+"languages": [
+{
+"languageCode": "hun",
+"languageName": "hungarian"
+}
+],
+"independent": true
+},
+{
+"id": 77,
+"countryName": "indonesia",
+"capitalName": "jakarta",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "IDR",
+"currencyName": "Indonesian Rupiah"
+}
+],
+"languages": [
+{
+"languageCode": "ind",
+"languageName": "indonesian"
+}
+],
+"independent": true
+},
+{
+"id": 78,
+"countryName": "india",
+"capitalName": "new delhi",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "INR",
+"currencyName": "Indian Rupee"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "tam",
+"languageName": "tamil"
+},
+{
+"languageCode": "hin",
+"languageName": "hindi"
+}
+],
+"independent": true
+},
+{
+"id": 79,
+"countryName": "ireland",
+"capitalName": "dublin",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "gle",
+"languageName": "irish"
+}
+],
+"independent": true
+},
+{
+"id": 80,
+"countryName": "iran",
+"capitalName": "tehran",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "IRR",
+"currencyName": "Iranian Rial"
+}
+],
+"languages": [
+{
+"languageCode": "fas",
+"languageName": "persian (farsi)"
+}
+],
+"independent": true
+},
+{
+"id": 81,
+"countryName": "iraq",
+"capitalName": "baghdad",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "IQD",
+"currencyName": "Iraqi Dinar"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+},
+{
+"languageCode": "ckb",
+"languageName": "sorani"
+},
+{
+"languageCode": "arc",
+"languageName": "aramaic"
+}
+],
+"independent": true
+},
+{
+"id": 82,
+"countryName": "iceland",
+"capitalName": "reykjavik",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "ISK",
+"currencyName": "Icelandic Króna"
+}
+],
+"languages": [
+{
+"languageCode": "isl",
+"languageName": "icelandic"
+}
+],
+"independent": true
+},
+{
+"id": 83,
+"countryName": "israel",
+"capitalName": "jerusalem",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "ILS",
+"currencyName": "Israeli New Shekel"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+},
+{
+"languageCode": "heb",
+"languageName": "hebrew"
+}
+],
+"independent": true
+},
+{
+"id": 84,
+"countryName": "italy",
+"capitalName": "rome",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "ita",
+"languageName": "italian"
+}
+],
+"independent": true
+},
+{
+"id": 85,
+"countryName": "jamaica",
+"capitalName": "kingston",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "JMD",
+"currencyName": "Jamaican Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "jam",
+"languageName": "jamaican patois"
+}
+],
+"independent": true
+},
+{
+"id": 86,
+"countryName": "jordan",
+"capitalName": "amman",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "JOD",
+"currencyName": "Jordanian Dinar"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 87,
+"countryName": "japan",
+"capitalName": "tokyo",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "JPY",
+"currencyName": "Japanese Yen"
+}
+],
+"languages": [
+{
+"languageCode": "jpn",
+"languageName": "japanese"
+}
+],
+"independent": true
+},
+{
+"id": 88,
+"countryName": "kazakhstan",
+"capitalName": "nur-sultan",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "KZT",
+"currencyName": "Kazakhstani Tenge"
+}
+],
+"languages": [
+{
+"languageCode": "rus",
+"languageName": "russian"
+},
+{
+"languageCode": "kaz",
+"languageName": "kazakh"
+}
+],
+"independent": true
+},
+{
+"id": 89,
+"countryName": "kenya",
+"capitalName": "nairobi",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "KES",
+"currencyName": "Kenyan Shilling"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "swa",
+"languageName": "swahili"
+}
+],
+"independent": true
+},
+{
+"id": 90,
+"countryName": "kyrgyzstan",
+"capitalName": "bishkek",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "KGS",
+"currencyName": "Kyrgystani Som"
+}
+],
+"languages": [
+{
+"languageCode": "rus",
+"languageName": "russian"
+},
+{
+"languageCode": "kir",
+"languageName": "kyrgyz"
+}
+],
+"independent": true
+},
+{
+"id": 91,
+"countryName": "cambodia",
+"capitalName": "phnom penh",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "KHR",
+"currencyName": "Cambodian Riel"
+},
+{
+"id": "USD",
+"currencyName": "US Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "khm",
+"languageName": "khmer"
+}
+],
+"independent": true
+},
+{
+"id": 92,
+"countryName": "kiribati",
+"capitalName": "south tarawa",
+"continent": "OCEANIA",
+"currencies": [
+{
+"id": "AUD",
+"currencyName": "Australian Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "gil",
+"languageName": "gilbertese"
+}
+],
+"independent": true
+},
+{
+"id": 93,
+"countryName": "saint kitts and nevis",
+"capitalName": "basseterre",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "XCD",
+"currencyName": "East Caribbean Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 94,
+"countryName": "south korea",
+"capitalName": "seoul",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "KRW",
+"currencyName": "South Korean Won"
+}
+],
+"languages": [
+{
+"languageCode": "kor",
+"languageName": "korean"
+}
+],
+"independent": true
+},
+{
+"id": 95,
+"countryName": "kosovo",
+"capitalName": "pristina",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "srp",
+"languageName": "serbian"
+},
+{
+"languageCode": "sqi",
+"languageName": "albanian"
+}
+],
+"independent": true
+},
+{
+"id": 96,
+"countryName": "kuwait",
+"capitalName": "kuwait city",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "KWD",
+"currencyName": "Kuwaiti Dinar"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 97,
+"countryName": "laos",
+"capitalName": "vientiane",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "LAK",
+"currencyName": "Laotian Kip"
+}
+],
+"languages": [
+{
+"languageCode": "lao",
+"languageName": "lao"
+}
+],
+"independent": true
+},
+{
+"id": 98,
+"countryName": "lebanon",
+"capitalName": "beirut",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "LBP",
+"currencyName": "Lebanese Pound"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+},
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 99,
+"countryName": "liberia",
+"capitalName": "monrovia",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "LRD",
+"currencyName": "Liberian Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 100,
+"countryName": "libya",
+"capitalName": "tripoli",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "LYD",
+"currencyName": "Libyan Dinar"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 101,
+"countryName": "saint lucia",
+"capitalName": "castries",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "XCD",
+"currencyName": "East Caribbean Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 102,
+"countryName": "liechtenstein",
+"capitalName": "vaduz",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "CHF",
+"currencyName": "Swiss Franc"
+}
+],
+"languages": [
+{
+"languageCode": "deu",
+"languageName": "german"
+}
+],
+"independent": true
+},
+{
+"id": 103,
+"countryName": "sri lanka",
+"capitalName": "colombo",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "LKR",
+"currencyName": "Sri Lankan Rupee"
+}
+],
+"languages": [
+{
+"languageCode": "sin",
+"languageName": "sinhala"
+},
+{
+"languageCode": "tam",
+"languageName": "tamil"
+}
+],
+"independent": true
+},
+{
+"id": 104,
+"countryName": "lesotho",
+"capitalName": "maseru",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "ZAR",
+"currencyName": "South African Rand"
+},
+{
+"id": "LSL",
+"currencyName": "Lesotho Loti"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "sot",
+"languageName": "southern sotho"
+}
+],
+"independent": true
+},
+{
+"id": 105,
+"countryName": "lithuania",
+"capitalName": "vilnius",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "lit",
+"languageName": "lithuanian"
+}
+],
+"independent": true
+},
+{
+"id": 106,
+"countryName": "luxembourg",
+"capitalName": "luxembourg",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+},
+{
+"languageCode": "deu",
+"languageName": "german"
+},
+{
+"languageCode": "ltz",
+"languageName": "luxembourgish"
+}
+],
+"independent": true
+},
+{
+"id": 107,
+"countryName": "latvia",
+"capitalName": "riga",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "lav",
+"languageName": "latvian"
+}
+],
+"independent": true
+},
+{
+"id": 108,
+"countryName": "morocco",
+"capitalName": "rabat",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "MAD",
+"currencyName": "Moroccan Dirham"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+},
+{
+"languageCode": "ber",
+"languageName": "berber"
+}
+],
+"independent": true
+},
+{
+"id": 109,
+"countryName": "monaco",
+"capitalName": "monaco",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 110,
+"countryName": "moldova",
+"capitalName": "chișinău",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "MDL",
+"currencyName": "Moldovan Leu"
+}
+],
+"languages": [
+{
+"languageCode": "ron",
+"languageName": "moldovan/romanian"
+}
+],
+"independent": true
+},
+{
+"id": 111,
+"countryName": "madagascar",
+"capitalName": "antananarivo",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "MGA",
+"currencyName": "Malagasy Ariary"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+},
+{
+"languageCode": "mlg",
+"languageName": "malagasy"
+}
+],
+"independent": true
+},
+{
+"id": 112,
+"countryName": "maldives",
+"capitalName": "malé",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "MVR",
+"currencyName": "Maldivian Rufiyaa"
+}
+],
+"languages": [
+{
+"languageCode": "div",
+"languageName": "maldivian"
+}
+],
+"independent": true
+},
+{
+"id": 113,
+"countryName": "mexico",
+"capitalName": "mexico city",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "MXN",
+"currencyName": "Mexican Peso"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 114,
+"countryName": "marshall islands",
+"capitalName": "majuro",
+"continent": "OCEANIA",
+"currencies": [
+{
+"id": "USD",
+"currencyName": "US Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "mah",
+"languageName": "marshallese"
+}
+],
+"independent": true
+},
+{
+"id": 115,
+"countryName": "north macedonia",
+"capitalName": "skopje",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "MKD",
+"currencyName": "Macedonian Denar"
+}
+],
+"languages": [
+{
+"languageCode": "mkd",
+"languageName": "macedonian"
+}
+],
+"independent": true
+},
+{
+"id": 116,
+"countryName": "mali",
+"capitalName": "bamako",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "XOF",
+"currencyName": "West African CFA Franc"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 117,
+"countryName": "malta",
+"capitalName": "valletta",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "mlt",
+"languageName": "maltese"
+}
+],
+"independent": true
+},
+{
+"id": 118,
+"countryName": "myanmar",
+"capitalName": "naypyidaw",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "MMK",
+"currencyName": "Myanmar Kyat"
+}
+],
+"languages": [
+{
+"languageCode": "mya",
+"languageName": "burmese"
+}
+],
+"independent": true
+},
+{
+"id": 119,
+"countryName": "montenegro",
+"capitalName": "podgorica",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "cnr",
+"languageName": "montenegrin"
+}
+],
+"independent": true
+},
+{
+"id": 120,
+"countryName": "mongolia",
+"capitalName": "ulan bator",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "MNT",
+"currencyName": "Mongolian Tugrik"
+}
+],
+"languages": [
+{
+"languageCode": "mon",
+"languageName": "mongolian"
+}
+],
+"independent": true
+},
+{
+"id": 121,
+"countryName": "mozambique",
+"capitalName": "maputo",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "MZN",
+"currencyName": "Mozambican Metical"
+}
+],
+"languages": [
+{
+"languageCode": "por",
+"languageName": "portuguese"
+}
+],
+"independent": true
+},
+{
+"id": 122,
+"countryName": "mauritania",
+"capitalName": "nouakchott",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "MRU",
+"currencyName": "Mauritanian Ouguiya"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 123,
+"countryName": "mauritius",
+"capitalName": "port louis",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "MUR",
+"currencyName": "Mauritian Rupee"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "fra",
+"languageName": "french"
+},
+{
+"languageCode": "mfe",
+"languageName": "mauritian creole"
+}
+],
+"independent": true
+},
+{
+"id": 124,
+"countryName": "malawi",
+"capitalName": "lilongwe",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "MWK",
+"currencyName": "Malawian Kwacha"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "nya",
+"languageName": "chewa"
+}
+],
+"independent": true
+},
+{
+"id": 125,
+"countryName": "malaysia",
+"capitalName": "kuala lumpur",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "MYR",
+"currencyName": "Malaysian Ringgit"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "msa",
+"languageName": "malay"
+}
+],
+"independent": true
+},
+{
+"id": 126,
+"countryName": "namibia",
+"capitalName": "windhoek",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "ZAR",
+"currencyName": "South African Rand"
+},
+{
+"id": "NAD",
+"currencyName": "Namibian Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "her",
+"languageName": "herero"
+},
+{
+"languageCode": "hgm",
+"languageName": "khoekhoe"
+},
+{
+"languageCode": "ndo",
+"languageName": "ndonga"
+},
+{
+"languageCode": "kwn",
+"languageName": "kwangali"
+},
+{
+"languageCode": "deu",
+"languageName": "german"
+},
+{
+"languageCode": "loz",
+"languageName": "lozi"
+},
+{
+"languageCode": "tsn",
+"languageName": "tswana"
+},
+{
+"languageCode": "afr",
+"languageName": "afrikaans"
+}
+],
+"independent": true
+},
+{
+"id": 127,
+"countryName": "niger",
+"capitalName": "niamey",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "XOF",
+"currencyName": "West African CFA Franc"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 128,
+"countryName": "nigeria",
+"capitalName": "abuja",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "NGN",
+"currencyName": "Nigerian Naira"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 129,
+"countryName": "nicaragua",
+"capitalName": "managua",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "NIO",
+"currencyName": "Nicaraguan Córdoba"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 130,
+"countryName": "netherlands",
+"capitalName": "amsterdam",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "nld",
+"languageName": "dutch"
+}
+],
+"independent": true
+},
+{
+"id": 131,
+"countryName": "norway",
+"capitalName": "oslo",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "NOK",
+"currencyName": "Norwegian Krone"
+}
+],
+"languages": [
+{
+"languageCode": "nob",
+"languageName": "norwegian bokmål"
+},
+{
+"languageCode": "smi",
+"languageName": "sami"
+},
+{
+"languageCode": "nno",
+"languageName": "norwegian nynorsk"
+}
+],
+"independent": true
+},
+{
+"id": 132,
+"countryName": "nepal",
+"capitalName": "kathmandu",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "NPR",
+"currencyName": "Nepalese Rupee"
+}
+],
+"languages": [
+{
+"languageCode": "nep",
+"languageName": "nepali"
+}
+],
+"independent": true
+},
+{
+"id": 133,
+"countryName": "nauru",
+"capitalName": "yaren",
+"continent": "OCEANIA",
+"currencies": [
+{
+"id": "AUD",
+"currencyName": "Australian Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "nau",
+"languageName": "nauru"
+}
+],
+"independent": true
+},
+{
+"id": 134,
+"countryName": "new zealand",
+"capitalName": "wellington",
+"continent": "OCEANIA",
+"currencies": [
+{
+"id": "NZD",
+"currencyName": "New Zealand Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "nzs",
+"languageName": "new zealand sign language"
+},
+{
+"languageCode": "mri",
+"languageName": "māori"
+}
+],
+"independent": true
+},
+{
+"id": 135,
+"countryName": "oman",
+"capitalName": "muscat",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "OMR",
+"currencyName": "Omani Rial"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 136,
+"countryName": "pakistan",
+"capitalName": "islamabad",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "PKR",
+"currencyName": "Pakistani Rupee"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "urd",
+"languageName": "urdu"
+}
+],
+"independent": true
+},
+{
+"id": 137,
+"countryName": "panama",
+"capitalName": "panama city",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "PAB",
+"currencyName": "Panamanian Balboa"
+},
+{
+"id": "USD",
+"currencyName": "US Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 138,
+"countryName": "peru",
+"capitalName": "lima",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "PEN",
+"currencyName": "Peruvian Sol"
+}
+],
+"languages": [
+{
+"languageCode": "aym",
+"languageName": "aymara"
+},
+{
+"languageCode": "spa",
+"languageName": "spanish"
+},
+{
+"languageCode": "que",
+"languageName": "quechua"
+}
+],
+"independent": true
+},
+{
+"id": 139,
+"countryName": "philippines",
+"capitalName": "manila",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "PHP",
+"currencyName": "Philippine Piso"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "fil",
+"languageName": "filipino"
+}
+],
+"independent": true
+},
+{
+"id": 140,
+"countryName": "palau",
+"capitalName": "ngerulmud",
+"continent": "OCEANIA",
+"currencies": [
+{
+"id": "USD",
+"currencyName": "US Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "pau",
+"languageName": "palauan"
+}
+],
+"independent": true
+},
+{
+"id": 141,
+"countryName": "papua new guinea",
+"capitalName": "port moresby",
+"continent": "OCEANIA",
+"currencies": [
+{
+"id": "PGK",
+"currencyName": "Papua New Guinean Kina"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "tpi",
+"languageName": "tok pisin"
+},
+{
+"languageCode": "hmo",
+"languageName": "hiri motu"
+}
+],
+"independent": true
+},
+{
+"id": 142,
+"countryName": "poland",
+"capitalName": "warsaw",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "PLN",
+"currencyName": "Polish Zloty"
+}
+],
+"languages": [
+{
+"languageCode": "pol",
+"languageName": "polish"
+}
+],
+"independent": true
+},
+{
+"id": 143,
+"countryName": "north korea",
+"capitalName": "pyongyang",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "KPW",
+"currencyName": "North Korean Won"
+}
+],
+"languages": [
+{
+"languageCode": "kor",
+"languageName": "korean"
+}
+],
+"independent": true
+},
+{
+"id": 144,
+"countryName": "portugal",
+"capitalName": "lisbon",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "por",
+"languageName": "portuguese"
+}
+],
+"independent": true
+},
+{
+"id": 145,
+"countryName": "paraguay",
+"capitalName": "asunción",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "PYG",
+"currencyName": "Paraguayan Guarani"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+},
+{
+"languageCode": "grn",
+"languageName": "guaraní"
+}
+],
+"independent": true
+},
+{
+"id": 146,
+"countryName": "qatar",
+"capitalName": "doha",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "QAR",
+"currencyName": "Qatari Rial"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 147,
+"countryName": "romania",
+"capitalName": "bucharest",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "RON",
+"currencyName": "Romanian Leu"
+}
+],
+"languages": [
+{
+"languageCode": "ron",
+"languageName": "moldovan/romanian"
+}
+],
+"independent": true
+},
+{
+"id": 148,
+"countryName": "russia",
+"capitalName": "moscow",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "RUB",
+"currencyName": "Russian Ruble"
+}
+],
+"languages": [
+{
+"languageCode": "rus",
+"languageName": "russian"
+}
+],
+"independent": true
+},
+{
+"id": 149,
+"countryName": "rwanda",
+"capitalName": "kigali",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "RWF",
+"currencyName": "Rwandan Franc"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "fra",
+"languageName": "french"
+},
+{
+"languageCode": "kin",
+"languageName": "kinyarwanda"
+}
+],
+"independent": true
+},
+{
+"id": 150,
+"countryName": "saudi arabia",
+"capitalName": "riyadh",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "SAR",
+"currencyName": "Saudi Riyal"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 151,
+"countryName": "sudan",
+"capitalName": "khartoum",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "SDG",
+"currencyName": "Sudanese Pound"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 152,
+"countryName": "senegal",
+"capitalName": "dakar",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "XOF",
+"currencyName": "West African CFA Franc"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 153,
+"countryName": "singapore",
+"capitalName": "singapore",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "SGD",
+"currencyName": "Singapore Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "zho",
+"languageName": "chinese"
+},
+{
+"languageCode": "tam",
+"languageName": "tamil"
+},
+{
+"languageCode": "msa",
+"languageName": "malay"
+}
+],
+"independent": true
+},
+{
+"id": 154,
+"countryName": "solomon islands",
+"capitalName": "honiara",
+"continent": "OCEANIA",
+"currencies": [
+{
+"id": "SBD",
+"currencyName": "Solomon Islands Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 155,
+"countryName": "sierra leone",
+"capitalName": "freetown",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "SLL",
+"currencyName": "Sierra Leonean Leone"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 156,
+"countryName": "el salvador",
+"capitalName": "san salvador",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "USD",
+"currencyName": "US Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 157,
+"countryName": "san marino",
+"capitalName": "city of san marino",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "ita",
+"languageName": "italian"
+}
+],
+"independent": true
+},
+{
+"id": 158,
+"countryName": "somalia",
+"capitalName": "mogadishu",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "SOS",
+"currencyName": "Somali Shilling"
+}
+],
+"languages": [
+{
+"languageCode": "som",
+"languageName": "somali"
+},
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 159,
+"countryName": "serbia",
+"capitalName": "belgrade",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "RSD",
+"currencyName": "Serbian Dinar"
+}
+],
+"languages": [
+{
+"languageCode": "srp",
+"languageName": "serbian"
+}
+],
+"independent": true
+},
+{
+"id": 160,
+"countryName": "south sudan",
+"capitalName": "juba",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "SSP",
+"currencyName": "South Sudanese Pound"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 161,
+"countryName": "sao tome and principe",
+"capitalName": "são tomé",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "STN",
+"currencyName": "São Tomé & Príncipe Dobra"
+}
+],
+"languages": [
+{
+"languageCode": "por",
+"languageName": "portuguese"
+}
+],
+"independent": true
+},
+{
+"id": 162,
+"countryName": "suriname",
+"capitalName": "paramaribo",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "SRD",
+"currencyName": "Surinamese Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "nld",
+"languageName": "dutch"
+}
+],
+"independent": true
+},
+{
+"id": 163,
+"countryName": "slovakia",
+"capitalName": "bratislava",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "slk",
+"languageName": "slovak"
+}
+],
+"independent": true
+},
+{
+"id": 164,
+"countryName": "slovenia",
+"capitalName": "ljubljana",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "slv",
+"languageName": "slovene"
+}
+],
+"independent": true
+},
+{
+"id": 165,
+"countryName": "sweden",
+"capitalName": "stockholm",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "SEK",
+"currencyName": "Swedish Krona"
+}
+],
+"languages": [
+{
+"languageCode": "swe",
+"languageName": "swedish"
+}
+],
+"independent": true
+},
+{
+"id": 166,
+"countryName": "eswatini",
+"capitalName": "lobamba",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "ZAR",
+"currencyName": "South African Rand"
+},
+{
+"id": "SZL",
+"currencyName": "Swazi Lilangeni"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "ssw",
+"languageName": "swazi"
+}
+],
+"independent": true
+},
+{
+"id": 167,
+"countryName": "seychelles",
+"capitalName": "victoria",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "SCR",
+"currencyName": "Seychellois Rupee"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "fra",
+"languageName": "french"
+},
+{
+"languageCode": "crs",
+"languageName": "seychellois creole"
+}
+],
+"independent": true
+},
+{
+"id": 168,
+"countryName": "syria",
+"capitalName": "damascus",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "SYP",
+"currencyName": "Syrian Pound"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 169,
+"countryName": "chad",
+"capitalName": "n'djamena",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "XAF",
+"currencyName": "Central African CFA Franc"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+},
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 170,
+"countryName": "togo",
+"capitalName": "lomé",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "XOF",
+"currencyName": "West African CFA Franc"
+}
+],
+"languages": [
+{
+"languageCode": "fra",
+"languageName": "french"
+}
+],
+"independent": true
+},
+{
+"id": 171,
+"countryName": "thailand",
+"capitalName": "bangkok",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "THB",
+"currencyName": "Thai Baht"
+}
+],
+"languages": [
+{
+"languageCode": "tha",
+"languageName": "thai"
+}
+],
+"independent": true
+},
+{
+"id": 172,
+"countryName": "tajikistan",
+"capitalName": "dushanbe",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "TJS",
+"currencyName": "Tajikistani Somoni"
+}
+],
+"languages": [
+{
+"languageCode": "rus",
+"languageName": "russian"
+},
+{
+"languageCode": "tgk",
+"languageName": "tajik"
+}
+],
+"independent": true
+},
+{
+"id": 173,
+"countryName": "turkmenistan",
+"capitalName": "ashgabat",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "TMT",
+"currencyName": "Turkmenistani Manat"
+}
+],
+"languages": [
+{
+"languageCode": "rus",
+"languageName": "russian"
+},
+{
+"languageCode": "tuk",
+"languageName": "turkmen"
+}
+],
+"independent": true
+},
+{
+"id": 174,
+"countryName": "timor-leste",
+"capitalName": "dili",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "USD",
+"currencyName": "US Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "por",
+"languageName": "portuguese"
+},
+{
+"languageCode": "tet",
+"languageName": "tetum"
+}
+],
+"independent": true
+},
+{
+"id": 175,
+"countryName": "tonga",
+"capitalName": "nuku'alofa",
+"continent": "OCEANIA",
+"currencies": [
+{
+"id": "TOP",
+"currencyName": "Tongan Paʻanga"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "ton",
+"languageName": "tongan"
+}
+],
+"independent": true
+},
+{
+"id": 176,
+"countryName": "trinidad and tobago",
+"capitalName": "port of spain",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "TTD",
+"currencyName": "Trinidad & Tobago Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 177,
+"countryName": "tunisia",
+"capitalName": "tunis",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "TND",
+"currencyName": "Tunisian Dinar"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 178,
+"countryName": "turkey",
+"capitalName": "ankara",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "TRY",
+"currencyName": "Turkish Lira"
+}
+],
+"languages": [
+{
+"languageCode": "tur",
+"languageName": "turkish"
+}
+],
+"independent": true
+},
+{
+"id": 179,
+"countryName": "tuvalu",
+"capitalName": "funafuti",
+"continent": "OCEANIA",
+"currencies": [
+{
+"id": "AUD",
+"currencyName": "Australian Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "tvl",
+"languageName": "tuvaluan"
+}
+],
+"independent": true
+},
+{
+"id": 180,
+"countryName": "tanzania",
+"capitalName": "dodoma",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "TZS",
+"currencyName": "Tanzanian Shilling"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "swa",
+"languageName": "swahili"
+}
+],
+"independent": true
+},
+{
+"id": 181,
+"countryName": "uganda",
+"capitalName": "kampala",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "UGX",
+"currencyName": "Ugandan Shilling"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "swa",
+"languageName": "swahili"
+}
+],
+"independent": true
+},
+{
+"id": 182,
+"countryName": "ukraine",
+"capitalName": "kyiv",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "UAH",
+"currencyName": "Ukrainian Hryvnia"
+}
+],
+"languages": [
+{
+"languageCode": "ukr",
+"languageName": "ukrainian"
+}
+],
+"independent": true
+},
+{
+"id": 183,
+"countryName": "uruguay",
+"capitalName": "montevideo",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "UYU",
+"currencyName": "Uruguayan Peso"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 184,
+"countryName": "united states of america",
+"capitalName": "washington d.c.",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "USD",
+"currencyName": "US Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 185,
+"countryName": "uzbekistan",
+"capitalName": "tashkent",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "UZS",
+"currencyName": "Uzbekistani Som"
+}
+],
+"languages": [
+{
+"languageCode": "rus",
+"languageName": "russian"
+},
+{
+"languageCode": "uzb",
+"languageName": "uzbek"
+}
+],
+"independent": true
+},
+{
+"id": 186,
+"countryName": "vatican city",
+"capitalName": "vatican city",
+"continent": "EUROPE",
+"currencies": [
+{
+"id": "EUR",
+"currencyName": "Euro"
+}
+],
+"languages": [
+{
+"languageCode": "lat",
+"languageName": "latin"
+},
+{
+"languageCode": "ita",
+"languageName": "italian"
+}
+],
+"independent": true
+},
+{
+"id": 187,
+"countryName": "saint vincent and the grenadines",
+"capitalName": "kingstown",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "XCD",
+"currencyName": "East Caribbean Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 188,
+"countryName": "venezuela",
+"capitalName": "caracas",
+"continent": "AMERICA",
+"currencies": [
+{
+"id": "VES",
+"currencyName": "Venezuelan Bolívar"
+}
+],
+"languages": [
+{
+"languageCode": "spa",
+"languageName": "spanish"
+}
+],
+"independent": true
+},
+{
+"id": 189,
+"countryName": "vietnam",
+"capitalName": "hanoi",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "VND",
+"currencyName": "Vietnamese Dong"
+}
+],
+"languages": [
+{
+"languageCode": "vie",
+"languageName": "vietnamese"
+}
+],
+"independent": true
+},
+{
+"id": 190,
+"countryName": "vanuatu",
+"capitalName": "port vila",
+"continent": "OCEANIA",
+"currencies": [
+{
+"id": "VUV",
+"currencyName": "Vanuatu Vatu"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "fra",
+"languageName": "french"
+},
+{
+"languageCode": "bis",
+"languageName": "bislama"
+}
+],
+"independent": true
+},
+{
+"id": 191,
+"countryName": "samoa",
+"capitalName": "apia",
+"continent": "OCEANIA",
+"currencies": [
+{
+"id": "WST",
+"currencyName": "Samoan Tala"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "smo",
+"languageName": "samoan"
+}
+],
+"independent": true
+},
+{
+"id": 192,
+"countryName": "yemen",
+"capitalName": "sana'a",
+"continent": "ASIA",
+"currencies": [
+{
+"id": "YER",
+"currencyName": "Yemeni Rial"
+}
+],
+"languages": [
+{
+"languageCode": "ara",
+"languageName": "arabic"
+}
+],
+"independent": true
+},
+{
+"id": 193,
+"countryName": "south africa",
+"capitalName": "bloemfontein",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "ZAR",
+"currencyName": "South African Rand"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "ssw",
+"languageName": "swazi"
+},
+{
+"languageCode": "sot",
+"languageName": "southern sotho"
+},
+{
+"languageCode": "tso",
+"languageName": "tsonga"
+},
+{
+"languageCode": "nso",
+"languageName": "northern sotho"
+},
+{
+"languageCode": "tsn",
+"languageName": "tswana"
+},
+{
+"languageCode": "afr",
+"languageName": "afrikaans"
+},
+{
+"languageCode": "ven",
+"languageName": "venda"
+},
+{
+"languageCode": "xho",
+"languageName": "xhosa"
+},
+{
+"languageCode": "nbl",
+"languageName": "southern ndebele"
+},
+{
+"languageCode": "zul",
+"languageName": "zulu"
+}
+],
+"independent": true
+},
+{
+"id": 194,
+"countryName": "zambia",
+"capitalName": "lusaka",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "ZMW",
+"currencyName": "Zambian Kwacha"
+}
+],
+"languages": [
+{
+"languageCode": "eng",
+"languageName": "english"
+}
+],
+"independent": true
+},
+{
+"id": 195,
+"countryName": "zimbabwe",
+"capitalName": "harare",
+"continent": "AFRICA",
+"currencies": [
+{
+"id": "GBP",
+"currencyName": "British Pound"
+},
+{
+"id": "ZAR",
+"currencyName": "South African Rand"
+},
+{
+"id": "EUR",
+"currencyName": "Euro"
+},
+{
+"id": "BWP",
+"currencyName": "Botswanan Pula"
+},
+{
+"id": "INR",
+"currencyName": "Indian Rupee"
+},
+{
+"id": "CNY",
+"currencyName": "Chinese Yuan"
+},
+{
+"id": "JPY",
+"currencyName": "Japanese Yen"
+},
+{
+"id": "USD",
+"currencyName": "US Dollar"
+}
+],
+"languages": [
+{
+"languageCode": "sot",
+"languageName": "southern sotho"
+},
+{
+"languageCode": "tso",
+"languageName": "tsonga"
+},
+{
+"languageCode": "sna",
+"languageName": "shona"
+},
+{
+"languageCode": "khi",
+"languageName": "khoisan"
+},
+{
+"languageCode": "zib",
+"languageName": "zimbabwean sign language"
+},
+{
+"languageCode": "bwg",
+"languageName": "chibarwe"
+},
+{
+"languageCode": "tsn",
+"languageName": "tswana"
+},
+{
+"languageCode": "ven",
+"languageName": "venda"
+},
+{
+"languageCode": "eng",
+"languageName": "english"
+},
+{
+"languageCode": "nya",
+"languageName": "chewa"
+},
+{
+"languageCode": "kck",
+"languageName": "kalanga"
+},
+{
+"languageCode": "ndc",
+"languageName": "ndau"
+},
+{
+"languageCode": "nde",
+"languageName": "northern ndebele"
+},
+{
+"languageCode": "xho",
+"languageName": "xhosa"
+},
+{
+"languageCode": "toi",
+"languageName": "tonga"
+}
+],
+"independent": true
+}
+]

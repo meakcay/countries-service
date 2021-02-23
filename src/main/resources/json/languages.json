@@ -1,0 +1,460 @@
+[ {
+  "languageCode" : "nld",
+  "languageName" : "dutch"
+}, {
+  "languageCode" : "pap",
+  "languageName" : "papiamento"
+}, {
+  "languageCode" : "prs",
+  "languageName" : "dari"
+}, {
+  "languageCode" : "pus",
+  "languageName" : "pashto"
+}, {
+  "languageCode" : "tuk",
+  "languageName" : "turkmen"
+}, {
+  "languageCode" : "por",
+  "languageName" : "portuguese"
+}, {
+  "languageCode" : "eng",
+  "languageName" : "english"
+}, {
+  "languageCode" : "swe",
+  "languageName" : "swedish"
+}, {
+  "languageCode" : "sqi",
+  "languageName" : "albanian"
+}, {
+  "languageCode" : "cat",
+  "languageName" : "catalan"
+}, {
+  "languageCode" : "ara",
+  "languageName" : "arabic"
+}, {
+  "languageCode" : "grn",
+  "languageName" : "guaraní"
+}, {
+  "languageCode" : "spa",
+  "languageName" : "spanish"
+}, {
+  "languageCode" : "hye",
+  "languageName" : "armenian"
+}, {
+  "languageCode" : "smo",
+  "languageName" : "samoan"
+}, {
+  "languageCode" : "fra",
+  "languageName" : "french"
+}, {
+  "languageCode" : "bar",
+  "languageName" : "austro-bavarian german"
+}, {
+  "languageCode" : "aze",
+  "languageName" : "azerbaijani"
+}, {
+  "languageCode" : "rus",
+  "languageName" : "russian"
+}, {
+  "languageCode" : "run",
+  "languageName" : "kirundi"
+}, {
+  "languageCode" : "deu",
+  "languageName" : "german"
+}, {
+  "languageCode" : "ben",
+  "languageName" : "bengali"
+}, {
+  "languageCode" : "bul",
+  "languageName" : "bulgarian"
+}, {
+  "languageCode" : "bos",
+  "languageName" : "bosnian"
+}, {
+  "languageCode" : "hrv",
+  "languageName" : "croatian"
+}, {
+  "languageCode" : "srp",
+  "languageName" : "serbian"
+}, {
+  "languageCode" : "bel",
+  "languageName" : "belarusian"
+}, {
+  "languageCode" : "bjz",
+  "languageName" : "belizean creole"
+}, {
+  "languageCode" : "aym",
+  "languageName" : "aymara"
+}, {
+  "languageCode" : "que",
+  "languageName" : "quechua"
+}, {
+  "languageCode" : "msa",
+  "languageName" : "malay"
+}, {
+  "languageCode" : "dzo",
+  "languageName" : "dzongkha"
+}, {
+  "languageCode" : "nor",
+  "languageName" : "norwegian"
+}, {
+  "languageCode" : "tsn",
+  "languageName" : "tswana"
+}, {
+  "languageCode" : "sag",
+  "languageName" : "sango"
+}, {
+  "languageCode" : "gsw",
+  "languageName" : "swiss german"
+}, {
+  "languageCode" : "ita",
+  "languageName" : "italian"
+}, {
+  "languageCode" : "roh",
+  "languageName" : "romansh"
+}, {
+  "languageCode" : "zho",
+  "languageName" : "chinese"
+}, {
+  "languageCode" : "kon",
+  "languageName" : "kikongo"
+}, {
+  "languageCode" : "lin",
+  "languageName" : "lingala"
+}, {
+  "languageCode" : "lua",
+  "languageName" : "tshiluba"
+}, {
+  "languageCode" : "swa",
+  "languageName" : "swahili"
+}, {
+  "languageCode" : "rar",
+  "languageName" : "cook islands māori"
+}, {
+  "languageCode" : "zdj",
+  "languageName" : "comorian"
+}, {
+  "languageCode" : "ell",
+  "languageName" : "greek"
+}, {
+  "languageCode" : "tur",
+  "languageName" : "turkish"
+}, {
+  "languageCode" : "ces",
+  "languageName" : "czech"
+}, {
+  "languageCode" : "slk",
+  "languageName" : "slovak"
+}, {
+  "languageCode" : "dan",
+  "languageName" : "danish"
+}, {
+  "languageCode" : "tir",
+  "languageName" : "tigrinya"
+}, {
+  "languageCode" : "ber",
+  "languageName" : "berber"
+}, {
+  "languageCode" : "mey",
+  "languageName" : "hassaniya"
+}, {
+  "languageCode" : "est",
+  "languageName" : "estonian"
+}, {
+  "languageCode" : "amh",
+  "languageName" : "amharic"
+}, {
+  "languageCode" : "fin",
+  "languageName" : "finnish"
+}, {
+  "languageCode" : "fij",
+  "languageName" : "fijian"
+}, {
+  "languageCode" : "hif",
+  "languageName" : "fiji hindi"
+}, {
+  "languageCode" : "fao",
+  "languageName" : "faroese"
+}, {
+  "languageCode" : "kat",
+  "languageName" : "georgian"
+}, {
+  "languageCode" : "nfr",
+  "languageName" : "guernésiais"
+}, {
+  "languageCode" : "pov",
+  "languageName" : "upper guinea creole"
+}, {
+  "languageCode" : "kal",
+  "languageName" : "greenlandic"
+}, {
+  "languageCode" : "cha",
+  "languageName" : "chamorro"
+}, {
+  "languageCode" : "hat",
+  "languageName" : "haitian creole"
+}, {
+  "languageCode" : "hun",
+  "languageName" : "hungarian"
+}, {
+  "languageCode" : "ind",
+  "languageName" : "indonesian"
+}, {
+  "languageCode" : "glv",
+  "languageName" : "manx"
+}, {
+  "languageCode" : "hin",
+  "languageName" : "hindi"
+}, {
+  "languageCode" : "tam",
+  "languageName" : "tamil"
+}, {
+  "languageCode" : "gle",
+  "languageName" : "irish"
+}, {
+  "languageCode" : "fas",
+  "languageName" : "persian (farsi)"
+}, {
+  "languageCode" : "arc",
+  "languageName" : "aramaic"
+}, {
+  "languageCode" : "ckb",
+  "languageName" : "sorani"
+}, {
+  "languageCode" : "isl",
+  "languageName" : "icelandic"
+}, {
+  "languageCode" : "heb",
+  "languageName" : "hebrew"
+}, {
+  "languageCode" : "jam",
+  "languageName" : "jamaican patois"
+}, {
+  "languageCode" : "nrf",
+  "languageName" : "jèrriais"
+}, {
+  "languageCode" : "jpn",
+  "languageName" : "japanese"
+}, {
+  "languageCode" : "kaz",
+  "languageName" : "kazakh"
+}, {
+  "languageCode" : "kir",
+  "languageName" : "kyrgyz"
+}, {
+  "languageCode" : "khm",
+  "languageName" : "khmer"
+}, {
+  "languageCode" : "gil",
+  "languageName" : "gilbertese"
+}, {
+  "languageCode" : "kor",
+  "languageName" : "korean"
+}, {
+  "languageCode" : "lao",
+  "languageName" : "lao"
+}, {
+  "languageCode" : "sin",
+  "languageName" : "sinhala"
+}, {
+  "languageCode" : "sot",
+  "languageName" : "southern sotho"
+}, {
+  "languageCode" : "lit",
+  "languageName" : "lithuanian"
+}, {
+  "languageCode" : "ltz",
+  "languageName" : "luxembourgish"
+}, {
+  "languageCode" : "lav",
+  "languageName" : "latvian"
+}, {
+  "languageCode" : "ron",
+  "languageName" : "moldovan/romanian"
+}, {
+  "languageCode" : "mlg",
+  "languageName" : "malagasy"
+}, {
+  "languageCode" : "div",
+  "languageName" : "maldivian"
+}, {
+  "languageCode" : "mah",
+  "languageName" : "marshallese"
+}, {
+  "languageCode" : "mkd",
+  "languageName" : "macedonian"
+}, {
+  "languageCode" : "mlt",
+  "languageName" : "maltese"
+}, {
+  "languageCode" : "mya",
+  "languageName" : "burmese"
+}, {
+  "languageCode" : "cnr",
+  "languageName" : "montenegrin"
+}, {
+  "languageCode" : "mon",
+  "languageName" : "mongolian"
+}, {
+  "languageCode" : "cal",
+  "languageName" : "carolinian"
+}, {
+  "languageCode" : "mfe",
+  "languageName" : "mauritian creole"
+}, {
+  "languageCode" : "nya",
+  "languageName" : "chewa"
+}, {
+  "languageCode" : "afr",
+  "languageName" : "afrikaans"
+}, {
+  "languageCode" : "her",
+  "languageName" : "herero"
+}, {
+  "languageCode" : "hgm",
+  "languageName" : "khoekhoe"
+}, {
+  "languageCode" : "kwn",
+  "languageName" : "kwangali"
+}, {
+  "languageCode" : "loz",
+  "languageName" : "lozi"
+}, {
+  "languageCode" : "ndo",
+  "languageName" : "ndonga"
+}, {
+  "languageCode" : "pih",
+  "languageName" : "norfuk"
+}, {
+  "languageCode" : "niu",
+  "languageName" : "niuean"
+}, {
+  "languageCode" : "nno",
+  "languageName" : "norwegian nynorsk"
+}, {
+  "languageCode" : "nob",
+  "languageName" : "norwegian bokmål"
+}, {
+  "languageCode" : "smi",
+  "languageName" : "sami"
+}, {
+  "languageCode" : "nep",
+  "languageName" : "nepali"
+}, {
+  "languageCode" : "nau",
+  "languageName" : "nauru"
+}, {
+  "languageCode" : "mri",
+  "languageName" : "māori"
+}, {
+  "languageCode" : "nzs",
+  "languageName" : "new zealand sign language"
+}, {
+  "languageCode" : "urd",
+  "languageName" : "urdu"
+}, {
+  "languageCode" : "fil",
+  "languageName" : "filipino"
+}, {
+  "languageCode" : "pau",
+  "languageName" : "palauan"
+}, {
+  "languageCode" : "hmo",
+  "languageName" : "hiri motu"
+}, {
+  "languageCode" : "tpi",
+  "languageName" : "tok pisin"
+}, {
+  "languageCode" : "pol",
+  "languageName" : "polish"
+}, {
+  "languageCode" : "kin",
+  "languageName" : "kinyarwanda"
+}, {
+  "languageCode" : "som",
+  "languageName" : "somali"
+}, {
+  "languageCode" : "slv",
+  "languageName" : "slovene"
+}, {
+  "languageCode" : "ssw",
+  "languageName" : "swazi"
+}, {
+  "languageCode" : "crs",
+  "languageName" : "seychellois creole"
+}, {
+  "languageCode" : "tha",
+  "languageName" : "thai"
+}, {
+  "languageCode" : "tgk",
+  "languageName" : "tajik"
+}, {
+  "languageCode" : "tkl",
+  "languageName" : "tokelauan"
+}, {
+  "languageCode" : "tet",
+  "languageName" : "tetum"
+}, {
+  "languageCode" : "ton",
+  "languageName" : "tongan"
+}, {
+  "languageCode" : "tvl",
+  "languageName" : "tuvaluan"
+}, {
+  "languageCode" : "ukr",
+  "languageName" : "ukrainian"
+}, {
+  "languageCode" : "uzb",
+  "languageName" : "uzbek"
+}, {
+  "languageCode" : "lat",
+  "languageName" : "latin"
+}, {
+  "languageCode" : "vie",
+  "languageName" : "vietnamese"
+}, {
+  "languageCode" : "bis",
+  "languageName" : "bislama"
+}, {
+  "languageCode" : "nbl",
+  "languageName" : "southern ndebele"
+}, {
+  "languageCode" : "nso",
+  "languageName" : "northern sotho"
+}, {
+  "languageCode" : "tso",
+  "languageName" : "tsonga"
+}, {
+  "languageCode" : "ven",
+  "languageName" : "venda"
+}, {
+  "languageCode" : "xho",
+  "languageName" : "xhosa"
+}, {
+  "languageCode" : "zul",
+  "languageName" : "zulu"
+}, {
+  "languageCode" : "bwg",
+  "languageName" : "chibarwe"
+}, {
+  "languageCode" : "kck",
+  "languageName" : "kalanga"
+}, {
+  "languageCode" : "khi",
+  "languageName" : "khoisan"
+}, {
+  "languageCode" : "ndc",
+  "languageName" : "ndau"
+}, {
+  "languageCode" : "nde",
+  "languageName" : "northern ndebele"
+}, {
+  "languageCode" : "sna",
+  "languageName" : "shona"
+}, {
+  "languageCode" : "toi",
+  "languageName" : "tonga"
+}, {
+  "languageCode" : "zib",
+  "languageName" : "zimbabwean sign language"
+} ]
