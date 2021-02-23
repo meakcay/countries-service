@@ -19,4 +19,4 @@ Available links are:
 - http://localhost:8200/languages/list
 - http://localhost:8200/currencies/list
 
-The applocation tries to register to a Eureka server
+The application tries to register to a Eureka server
